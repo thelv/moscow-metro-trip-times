@@ -1,2 +1,2 @@
-# moscow-metro-trip-times-
+# moscow-metro-trip-times
 Время поездок в Московском метро. База данных любезно стырена с Яндекс.Метро.
