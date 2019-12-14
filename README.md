@@ -5,4 +5,4 @@
 Найти время поездки от станции #12 до #120
 calc(12, 120)
 
-http://thelv.ru/metro/?from=12&to=120
+Online example: http://thelv.ru/metro/?from=12&to=120
